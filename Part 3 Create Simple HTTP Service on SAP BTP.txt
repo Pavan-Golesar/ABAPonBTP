@@ -1,0 +1,23 @@
+" Visit abaper.weebly.com
+CLASS zcl_ap_first_program_on_cloud DEFINITION
+  PUBLIC
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+
+    INTERFACES if_http_service_extension .
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+ENDCLASS.
+
+
+
+CLASS zcl_ap_first_program_on_cloud IMPLEMENTATION.
+
+
+  METHOD if_http_service_extension~handle_request.
+
+    response->set_text( |My first cloud program| ).
+
+  ENDMETHOD.
+ENDCLASS.
