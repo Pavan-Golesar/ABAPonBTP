@@ -20,7 +20,8 @@ ABAP Trial is part of Cloud Foundry trial
 Access via SAP Cloud Cockpit
 Local Eclipse and ADT installation required
 
-------------------------------------------------------------------------->>Part #1 https://youtu.be/dFdEUNeWjaQ (Eclipse Setup)
+-------------------------------------------------------------------------
+>>Part #1 https://youtu.be/dFdEUNeWjaQ (Eclipse Setup)
 Install Eclipse
 Add ABAP Plugin
 
@@ -42,6 +43,7 @@ Integrate with standard class
 Test Service
 
 >>Part #5 https://youtu.be/Bs8q3uy_zcQ (Develop and Integrate SAP API Hub with HTTP Service)
+Develop and Integrate code with SAP API Hub.
 -------------------------------------------------------------------------
 
 Please write back to us at sapparamount@gmail.com or fill in contact form https://abaper.weebly.com/contact.html we will personally get back to you.
